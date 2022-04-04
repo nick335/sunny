@@ -17,7 +17,8 @@ Users should be able to:
 ![].(desktop/Screenshot.png)
 
 ### Links
-
+- Solution URL: [Add solution URL here](https://https://github.com/nick335/sunny)
+- Live Site URL: [Add live site URL here](https://nick335.github.io/sunny/)
 
 ## My process
 
@@ -50,3 +51,8 @@ i will also like to improve my skills with background images, to make them to fi
 - Frontend Mentor - [@nick335](https://www.frontendmentor.io/profile/nick335)
 - Twitter - [@ChigozieErigo](https://www.twitter.com/ChigozieErigo)
 
+
+## Questions
+- how was the right-top-borderhamburger menu styled to face up??
+- how do i make my code responsive with less amount of code? (feeling like i wrote a lot of code for this project which could have been avoided)
+- how do we deal with positioning in terms of responsiveness, are we alawys going to change the position directly for different sizes of phone like i did? 
