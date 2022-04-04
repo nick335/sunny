@@ -17,8 +17,8 @@ Users should be able to:
 ![].(desktop/Screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://https://github.com/nick335/sunny)
-- Live Site URL: [Add live site URL here](https://nick335.github.io/sunny/)
+- Solution URL: [solution.com](https://github.com/nick335/sunny)
+- Live Site URL: [sunny.com](https://nick335.github.io/sunny/)
 
 ## My process
 
